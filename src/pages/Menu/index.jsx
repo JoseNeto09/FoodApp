@@ -1,8 +1,8 @@
-const Menu = () => {
+const menu = () => {
     return(
-        <div className="text-white">Menu</div>
+        <div className="text-white">menu</div>
     )
 }
 
 
-export default Menu;
+export default menu;
