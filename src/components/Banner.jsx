@@ -1,5 +1,4 @@
-/* eslint-disable jsx-a11y/anchor-has-content */
-import Button from './elements/Button';
+import Button from "./elements/Button";
 
 export const Banner = () => {
     return (

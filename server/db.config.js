@@ -1,4 +1,4 @@
-const dbName = 'food-ordering';
+const dbName = 'my-project';
 const dbHost = 'localhost';
 const dbPort = 27017;
 module.exports = {
